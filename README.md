@@ -17,4 +17,6 @@ Make sure you have Python installed, then clone or download this repository.
 
 1. Install the required external libraries using `pip`:
    ```bash
-   pip install -r requirements.txt
+requirements:
+matplotlib==3.8.4
+reportlab==4.1.0  install requirements
